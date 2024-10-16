@@ -1,0 +1,6 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+  //npx cypress run --record --key 5bcb5c60-4adc-474a-8419-899fc31b0824
+}

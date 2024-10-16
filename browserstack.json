@@ -1,0 +1,44 @@
+{
+    "auth": {
+        "username": "dattatrayfugare_HV7b2W",
+        "access_key": "R4xFk7TsoqfNfprPiyJH"
+    },
+    "browsers": [
+        {
+            "browser": "chrome",
+            "os": "Windows 10",
+            "versions": [
+                "latest",
+                "latest-1"
+            ]
+        },
+        {
+            "browser": "firefox",
+            "os": "Windows 10",
+            "versions": [
+                "latest",
+                "latest-1"
+            ]
+        }
+        
+       
+       
+      
+    ],
+    "run_settings": {
+        "cypress_config_file": "cypress.config.js",
+        
+        "exclude": [],
+        "parallels": "3",
+        "npm_dependencies": {},
+        "package_config_options": {},
+        "headless": true
+    },
+    "connection_settings": {
+        "local": false,
+        "local_identifier": null,
+        "local_mode": null,
+        "local_config_file": null
+    },
+    "disable_usage_reporting": false
+}
